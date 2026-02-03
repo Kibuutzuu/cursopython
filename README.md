@@ -1,6 +1,6 @@
 # Bienvenido al curso de Python!!
--- **Curso orientado a enseñar Python desde 0, con distintos enfoques mediante ejercicios separados (es decir, por unidad y con distintos tipo de escritura para prepararlos para sus certámenes!).** --
-> Probablemente este curso no esté actualizado ya que cada año se agregan nuevas formas de hacer las cosas dentro de la universidad, intentaré mantenerlo al día mientras conforme se actualizen las unidades.
+-- **Curso orientado a enseñar Python desde 0, con distintos enfoques mediante ejercicios separados (es decir, por unidad y con distintos tipo de escritura para prepararlos!).** --
+> Probablemente este curso no esté actualizado ya que cada año se agregan nuevas formas de hacer las cosas dentro de la universidad, intentaré mantenerlo al día conforme se actualizen las unidades.
 
 En este curso 📖 encontrarás temas seccionados como:
 
