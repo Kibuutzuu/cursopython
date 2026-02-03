@@ -14,4 +14,4 @@ En este curso 📖 encontrarás temas seccionados como:
 
 -📚- <ins> Strings </ins> ( Cadenas de texto )
 
--📖- <ins> Ejercicios repaso certamen! </ins> ( Códigos y enunciados de certamenes anteriores y/o también certamenes creados por mi! )
+-📖- <ins> Ejercicios repaso certamen! </ins> ( Códigos y enunciados de certamenes anteriores de la universidad y/o también certamenes creados por mi! )
