@@ -12,6 +12,8 @@ En este curso 📖 encontrarás temas seccionados como:
 
 -📚- <ins> Iteraciones/Ciclos </ins> ( Ciclo While y Ciclo For y aprender cuándo usarlos )
 
+-📚- <ins> Ruteo </ins> ( Simple )
+
 -📚- <ins> Strings </ins> ( Cadenas de texto )
 
 -📖- <ins> Ejercicios repaso de contenido tipo certamen! </ins> ( Códigos y enunciados de certamenes anteriores de la universidad y/o también certamenes creados por mi! )
