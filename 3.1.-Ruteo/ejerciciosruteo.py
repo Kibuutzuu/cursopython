@@ -1,3 +1,4 @@
+#Ejercicio 1
 total = 0
 limite = 4
 
@@ -9,6 +10,7 @@ for i in range(1, limite):
 
 print(f"Resultado final: {total}")
 
+#Ejercicio 2
 
 def calcular(n):
     res = 0
@@ -24,6 +26,7 @@ valor = 4
 final = calcular(valor)
 print(final)
 
+#Ejercicio 3
 
 def proceso(limite):
     x = 0
@@ -40,6 +43,7 @@ def proceso(limite):
 resultado = proceso(6)
 print(resultado)
 
+#Ejercicio 4
 
 def formatear_palabra(texto):
     resultado = ""
