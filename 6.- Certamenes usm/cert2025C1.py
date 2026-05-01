@@ -18,13 +18,13 @@ def filas_secas(invernadero, umbral):
         if invernadero[o] == "|":
             fila = invernadero[contadorinicio:contadorfin]
             num = misterio(fila)
-            if num >= umbral:
+            if num < umbral:
                 contadorzonas += 1
             contadorinicio = contadorfin + 1
         elif o == len(invernadero) -1:
             fila = invernadero[contadorinicio:contadorfin+1]
             num = misterio(fila)
-            if num >= umbral:
+            if num < umbral:
                 contadorzonas += 1
             contadorinicio = contadorfin + 1
         contadorfin += 1
